@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Sila Farsidia**.\
+My name is **Sila Farsidia**
 
 I'm currently a thirrd year **informatics engineering student in Hasanuddin University** 
 
