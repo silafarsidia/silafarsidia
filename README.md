@@ -2,7 +2,7 @@
 
 My name is **Sila Farsidia**
 
-I'm currently a thirrd year **informatics engineering student in Hasanuddin University** 
+I'm currently a third year **informatics engineering student in Hasanuddin University** 
 
 Recently, I'm selected as Bangkit 2022 Cohort in Mobile Development Path!
 
